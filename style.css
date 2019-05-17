@@ -51,15 +51,39 @@
   margin: 0 30px;
 }
 }
-.light{
-  color: darkred;
-  font-family:Gungsuh ;
-  size: 72px;
-  text-align: center;
+p:first-letter{
+  font-size: 1.5em;
+  padding: 2px 10px;
+  margin-right: 5px; 
+  background: url(https://html5book.ru/wp-content/uploads/2015/01/border-orange.png);
+  border: 2px solid #EE9966;
+  color: #544E3E;
+  float: left;
+  font-weight: bold;
+  box-shadow: 1px 1px 1px #9E9D99;
 }
-.h2{
-   color: yellow ;
-  font-family:Times New Roman ;
-  size: 48px;
+p{
   text-align: justify;
+  font-size: 23px;
+}
+.polar{
+  text-align: center;
+  color: brown;
+  font-weight: normal;
+}
+img{
+  width: 348px;
+  height: 235px;
+  border: 7px;
+margin-right: 10px;
+padding: 3px 0 3px;
+text-align: center;
+}
+}
+.rar{
+  text-align: center;
+  color: brown;
+}
+img{
+  text-align: center;
 }
